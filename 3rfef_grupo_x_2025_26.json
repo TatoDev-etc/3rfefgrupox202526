@@ -2811,9 +2811,9 @@
       "local_nombre": "Castilleja",
       "visitante": 10,
       "visitante_nombre": "Cádiz B",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 2,
+      "goles_visitante": 7,
+      "estado": "jugado"
     },
     {
       "fixture_id": "6PaTJdkT",
@@ -2823,9 +2823,9 @@
       "local_nombre": "Atl. Onubense",
       "visitante": 16,
       "visitante_nombre": "Sevilla C",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "estado": "jugado"
     },
     {
       "fixture_id": "jTqVA16b",
@@ -2835,9 +2835,9 @@
       "local_nombre": "Chiclana",
       "visitante": 8,
       "visitante_nombre": "Conil",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "estado": "jugado"
     },
     {
       "fixture_id": "lORH1cTp",
@@ -2847,9 +2847,9 @@
       "local_nombre": "Coria C.F.",
       "visitante": 12,
       "visitante_nombre": "Dos Hermanas",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "estado": "jugado"
     },
     {
       "fixture_id": "YB1LLIKG",
@@ -2859,9 +2859,9 @@
       "local_nombre": "Pozoblanco",
       "visitante": 4,
       "visitante_nombre": "Bollullos",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "estado": "jugado"
     },
     {
       "fixture_id": "lp3hEzDj",
@@ -2871,9 +2871,9 @@
       "local_nombre": "RB Linense",
       "visitante": 17,
       "visitante_nombre": "Tomares",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "estado": "jugado"
     },
     {
       "fixture_id": "xp8CNvj4",
