@@ -2883,9 +2883,9 @@
       "local_nombre": "San Roque de Lepe",
       "visitante": 7,
       "visitante_nombre": "Ciudad de Lucena",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "estado": "jugado"
     },
     {
       "fixture_id": "lbrRSZRq",
