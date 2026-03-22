@@ -2895,9 +2895,9 @@
       "local_nombre": "Utrera",
       "visitante": 9,
       "visitante_nombre": "Coria C.F.",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "estado": "jugado"
     },
     {
       "fixture_id": "pWneYe4M",
@@ -2907,9 +2907,9 @@
       "local_nombre": "Atletico Central",
       "visitante": 1,
       "visitante_nombre": "AD Ceuta B",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "estado": "jugado"
     },
     {
       "fixture_id": "4Yv2Un3l",
@@ -2931,9 +2931,9 @@
       "local_nombre": "Cádiz B",
       "visitante": 15,
       "visitante_nombre": "San Roque de Lepe",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "estado": "jugado"
     },
     {
       "fixture_id": "ppSTneJF",
@@ -2943,9 +2943,9 @@
       "local_nombre": "Ciudad de Lucena",
       "visitante": 13,
       "visitante_nombre": "Pozoblanco",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "estado": "jugado"
     },
     {
       "fixture_id": "x6qmzIZ9",
@@ -2967,9 +2967,9 @@
       "local_nombre": "Dos Hermanas",
       "visitante": 5,
       "visitante_nombre": "Castilleja",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 5,
+      "goles_visitante": 1,
+      "estado": "jugado"
     },
     {
       "fixture_id": "jkwASQX0",
@@ -2979,9 +2979,9 @@
       "local_nombre": "Sevilla C",
       "visitante": 14,
       "visitante_nombre": "RB Linense",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "estado": "jugado"
     },
     {
       "fixture_id": "Gjevxv5c",
@@ -2991,9 +2991,9 @@
       "local_nombre": "Tomares",
       "visitante": 6,
       "visitante_nombre": "Chiclana",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "estado": "jugado"
     },
     {
       "fixture_id": "vBJ4l8fK",
