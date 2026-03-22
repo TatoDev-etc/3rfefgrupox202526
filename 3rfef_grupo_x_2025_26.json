@@ -2919,9 +2919,9 @@
       "local_nombre": "Bollullos",
       "visitante": 2,
       "visitante_nombre": "Atl. Onubense",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "estado": "jugado"
     },
     {
       "fixture_id": "xKOLlHl3",
