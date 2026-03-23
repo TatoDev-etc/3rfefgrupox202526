@@ -2955,9 +2955,9 @@
       "local_nombre": "Conil",
       "visitante": 11,
       "visitante_nombre": "Córdoba B",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "estado": "jugado"
     },
     {
       "fixture_id": "MBtZQDdd",
