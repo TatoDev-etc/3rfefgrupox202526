@@ -3003,9 +3003,9 @@
       "local_nombre": "AD Ceuta B",
       "visitante": 8,
       "visitante_nombre": "Conil",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "estado": "jugado"
     },
     {
       "fixture_id": "ltwm1ovQ",
@@ -3015,9 +3015,9 @@
       "local_nombre": "Atl. Onubense",
       "visitante": 7,
       "visitante_nombre": "Ciudad de Lucena",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "estado": "jugado"
     },
     {
       "fixture_id": "4h3qsQnf",
@@ -3039,9 +3039,9 @@
       "local_nombre": "Córdoba B",
       "visitante": 6,
       "visitante_nombre": "Chiclana",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "estado": "jugado"
     },
     {
       "fixture_id": "be0yqnIs",
@@ -3075,9 +3075,9 @@
       "local_nombre": "RB Linense",
       "visitante": 4,
       "visitante_nombre": "Bollullos",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "estado": "jugado"
     },
     {
       "fixture_id": "Q7ihu4H6",
@@ -3099,9 +3099,9 @@
       "local_nombre": "Sevilla C",
       "visitante": 17,
       "visitante_nombre": "Tomares",
-      "goles_local": null,
-      "goles_visitante": null,
-      "estado": "pendiente"
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "estado": "jugado"
     },
     {
       "fixture_id": "4SJh82og",
